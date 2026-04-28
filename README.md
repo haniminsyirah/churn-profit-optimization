@@ -102,8 +102,23 @@ A Power BI dashboard was built to:
 
 ---
 
-## 📂 Project Structure
+## 📌 Conclusion
 
+This project shows that:
 
-### 2. Business Impact Modeling
-A new metric was introduced:
+> Churn prediction alone is not enough.  
+> Real business value comes from combining machine learning with strategic decision-making.
+
+---
+
+## 🔗 Future Improvements
+
+- Incorporate Customer Lifetime Value (CLV)
+- Deploy real-time scoring pipeline
+
+---
+
+## 👤 Author
+
+[hanim insyirah
+
