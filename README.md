@@ -27,7 +27,7 @@ A very small group of customers drives most of the recoverable revenue.
 ## ⚙️ Methodology
 
 ### 1. Churn Prediction
-- Model: Logistic Regression
+- Model: CatBoost
 - Output: Churn Probability per customer
 
 ---
